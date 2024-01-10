@@ -6,9 +6,11 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /* background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: fixed; */
+  background: rgb(80,114,190);
+  background: linear-gradient(144deg, rgba(80,114,190,1) 18%, rgba(137,155,139,1) 67%, rgba(246,201,201,1) 100%);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
